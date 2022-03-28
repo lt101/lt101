@@ -1,6 +1,6 @@
 ## Liem Truong
 
-#### Hi! My name is Liem, and I'm a software engineering student.
+### Hi! My name is Liem, and I'm a software engineering student.
 
 **Specialty**: web development  
 
