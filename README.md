@@ -9,4 +9,4 @@
 
 **Skills**: Typescript / Javascript / Angular / React / HTML / CSS / Java  
 
-![github banner](https://github.com/lt101/lt101/blob/main/github%20banner.PNG)
+![github banner](https://github.com/lt101/lt101/blob/main/github%20banner%20smaller.PNG)
