@@ -1,13 +1,13 @@
-## Liem Truong
+## Liêm Truong
 
-### Hi! My name is Liem, and I'm a software engineering student.
+### Hi! My name is Liêm, and I'm a recent software engineering graduate.
 
 
-**Specialty**: web development  
+**Specialties**: web development, data science/engineering  
 
-**Interests**: web development, game development  
+**Interests**: web development, data science/engineering, game development  
 
-**Skills**: Typescript / Javascript / Angular / React / HTML / CSS / Java  
+**Skills**: Python / Typescript / Javascript / Angular / React / HTML / CSS / Java  
 <p align="center">
   <img src="github-banner-updated.png" height="400">
 </p>
