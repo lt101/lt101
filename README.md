@@ -3,7 +3,9 @@
 ### Hi! My name is Liêm, and I'm a recent software engineering graduate.
 
 
-**Specialties**: full-stack web development, data science/engineering  
+**Specialties**: full-stack web development
+
+**Other interests**: data science/engineering
 
 
 **Skills**: Python / C# / Java / Typescript / Javascript / Angular / React / HTML / CSS  
