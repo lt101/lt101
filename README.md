@@ -2,6 +2,8 @@
 
 ### Hi! My name is Liêm, and I'm a software engineering graduate.
 
+Visit my personal website here: https://liemtruong.com/
+
 
 **Specialties**: full-stack web development
 
@@ -13,4 +15,4 @@
   <img src="github-banner-updated.png" height="400">
 </p>
 
-Visit my personal website here: https://liemtruong.com/
+
