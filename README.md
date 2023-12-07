@@ -1,6 +1,6 @@
 ## Liêm Truong
 
-### Hi! My name is Liêm, and I'm a software engineering graduate.
+### Hi! My name is Liêm, and I'm a software developer.
 
 Visit my personal website here: https://liemtruong.com/
 
